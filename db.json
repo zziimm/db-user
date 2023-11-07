@@ -4,37 +4,49 @@
       "id": "badminton1",
       "passwd": "bad1",
       "nick": "Arcsaber 11 Pro",
-      "imagePath": "https://www.yonexmall.com/shop/data/goods/1645767865278s0.png"
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1645767865278s0.png",
+      "gender": "남",
+      "rank": "A"
     },
     {
       "id": "badminton2",
       "passwd": "bad2",
       "nick": "Yonex Shirts",
-      "imagePath": "https://www.yonexmall.com/shop/data/goods/1659329583483s0.png"
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1659329583483s0.png",
+      "gender": "남",
+      "rank": "C"
     },
     {
       "id": "badminton3",
       "passwd": "bad3",
       "nick": "Aerus Z",
-      "imagePath": "https://www.yonexmall.com/shop/data/goods/1667190100104s0.png"
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1667190100104s0.png",
+      "gender": "여",
+      "rank": "초보"
     },
     {
       "id": "badminton4",
       "passwd": "bad4",
       "nick": "요넥스 백팩",
-      "imagePath": "https://www.yonexmall.com/shop/data/goods/1667282273374s0.png"
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1667282273374s0.png",
+      "gender": "여",
+      "rank": "B"
     },
     {
       "id": "badminton5",
       "passwd": "bad5",
       "nick": "라켓보이즈 모자",
-      "imagePath": "https://www.yonexmall.com/shop/data/goods/1638434200729s0.png"
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1638434200729s0.png",
+      "gender": "여",
+      "rank": "자강"
     },
     {
       "id": "badminton6",
       "passwd": "bad6",
       "nick": "트레이닝 매트",
-      "imagePath": "https://www.yonexmall.com/shop/data/goods/1640582675794s0.png"
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1640582675794s0.png",
+      "gender": "남",
+      "rank": "D"
     }
   ],
   "more-products": [
