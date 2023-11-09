@@ -57,7 +57,8 @@
       "selectDate": "2023-11-08",
       "gender": "여",
       "joinPersonnel": "4",
-      "game": "복식경기"
+      "game": "복식경기",
+      "district": "인천"
     },
     {
       "id": "badminton2",
@@ -66,7 +67,8 @@
       "selectDate": "2023-11-18",
       "gender": "남",
       "joinPersonnel": "2",
-      "game": "단식경기"
+      "game": "단식경기",
+      "district": "인천"
     },
     {
       "id": "badminton3",
@@ -75,7 +77,8 @@
       "selectDate": "2023-11-20",
       "gender": "여",
       "joinPersonnel": "8",
-      "game": "복식경기"
+      "game": "복식경기",
+      "district": "서울"
     },
     {
       "id": "badminton1",
@@ -84,7 +87,28 @@
       "selectDate": "2023-12-08",
       "gender": "남",
       "joinPersonnel": "4",
-      "game": "복식경기"
+      "game": "복식경기",
+      "district": "경기"
+    },
+    {
+      "id": "badminton6",
+      "title": "같이 칠사람 구합니다~~",
+      "content": "같이 치면서 노실 분 구합니다~",
+      "selectDate": "2023-12-08",
+      "gender": "남",
+      "joinPersonnel": "4",
+      "game": "복식경기",
+      "district": "경기"
+    },
+    {
+      "id": "badminton4",
+      "title": "배민 선생님 찾아용",
+      "content": "고수만",
+      "selectDate": "2023-12-08",
+      "gender": "여",
+      "joinPersonnel": "8",
+      "game": "복식경기",
+      "district": "인천"
     }
   ],
   "user": {
